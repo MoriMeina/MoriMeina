@@ -1,24 +1,11 @@
-### Hi there 👋
+你好/Hi There/こんにちは
+===
 
-
-
+>Cisco R&S CCIE/CISSP/RHCE。近期接触各种小项目，希望大家喜欢。
+>
+>对自研SDN/SD-WAN有兴趣，对于解决复杂的网络问题有着丰富的经验。
 
 
 ![](https://github-readme-stats.vercel.app/api?username=MoriMeina&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoriMeina&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoriMeina&layout=compact&theme=tokyonight)
-![](https://activity-graph.herokuapp.com/graph?username=MoriMeina&theme=xcode)
-<!--
-**MoriMeina/MoriMeina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
