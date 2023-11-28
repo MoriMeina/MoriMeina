@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+
+
+
+![](https://github-readme-stats.vercel.app/api?username=MoriMeina&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoriMeina&layout=compact&theme=tokyonight)
+![](https://activity-graph.herokuapp.com/graph?username=MoriMeina&theme=xcode)
 <!--
 **MoriMeina/MoriMeina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
